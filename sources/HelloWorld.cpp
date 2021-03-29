@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
-int main()
+int
+main()
 {
-cout<<"Hello, World from MikhailZarif!";
-return 0;
+  cout << "Hello, World from MikhailZarif!";
+  return 0;
 }
