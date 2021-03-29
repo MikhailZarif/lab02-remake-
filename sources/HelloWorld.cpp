@@ -1,6 +1,10 @@
 #include <iostream>
-int main()
+int
+main()
 {
+  std::cout << "Hello, World from MikhailZarif!" << std::endl;
+  return 0;
+
 std::cout<<"Hello, World from MikhailZarif!"<<std::endl;
-return 0;//commenting to get the conflict
+return 0;
 }
